@@ -1,8 +1,6 @@
-### Hi there 👋, I'm Manish Aravindh
+## Hi there 👋, I'm Manish Aravindh
 #### Front End Developer
-
 I do Design and Development. I really enjoy learning new things. Not only that, but I also enjoy React with Tailwind in general.
-
 ## Skills and Experience
 * ⚛️ React
 * 🌊 Tailwind
