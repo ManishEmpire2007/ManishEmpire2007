@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Manish Aravindh
+#### Front End Developer
+I do Design and Development. I really enjoy learning new things. Not only that, but I also enjoy React with Tailwind in general.
+
+Skills: REACT / JS / HTML / CSS
 
 <!--
 **ManishEmpire2007/ManishEmpire2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
