@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Manish Aravindh
-👨‍💻 Front End Developer | Creating seamless web experiences with HTML, CSS, and JavaScript. Passionate about building user-friendly interfaces with ReactJS.I really enjoy learning new things. Not only that, but I also enjoy React with Tailwind in general.
+## Hello World, I'm Manish Aravindh
+Front End Developer | Creating seamless web experiences with HTML, CSS, and JavaScript. Passionate about building user-friendly interfaces with ReactJS.I really enjoy learning new things. Not only that, but I also enjoy React with Tailwind in general.
 ## Skills and Experience
 * ⚛️ React
 * 🌊 Tailwind
