@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Manish Aravindh
-#### Front End Developer
-I do Design and Development. I really enjoy learning new things. Not only that, but I also enjoy React with Tailwind in general.
+👨‍💻 Front End Developer | Creating seamless web experiences with HTML, CSS, and JavaScript. Passionate about building user-friendly interfaces with ReactJS.I really enjoy learning new things. Not only that, but I also enjoy React with Tailwind in general.
 ## Skills and Experience
 * ⚛️ React
 * 🌊 Tailwind
 * 🖥️ HTML, CSS, JS
+
 <!--
 **ManishEmpire2007/ManishEmpire2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
