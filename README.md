@@ -1,5 +1,5 @@
 ## Hello World 👋, I'm Manish Aravindh
-Front End Developer | Creating seamless web experiences with HTML, CSS, and JavaScript. Passionate about building user-friendly interfaces with ReactJS.I really enjoy learning new things. Not only that, but I also enjoy React with Tailwind in general.
+Front End Developer | Creating seamless web experiences with HTML, CSS, and JavaScript. Passionate about building user-friendly interfaces with ReactJS. I really enjoy learning new things. Not only that, but I also enjoy communicating with new people!
 
 ## My Skills
 ![HTML5](https://img.shields.io/badge/html5-%23FB542B.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
