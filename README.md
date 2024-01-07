@@ -1,6 +1,6 @@
 ## Hello World 👋, I'm Manish Aravindh
-Front End Developer | Creating seamless web experiences with HTML, CSS, and JavaScript. Passionate about building user-friendly interfaces with ReactJS. I really enjoy learning new things. Not only that, but I also enjoy communicating with new people!
-
+Front End Developer who's also diving into AI/ML. I love creating user-friendly web experiences and constantly improving my skills. Currently exploring the fascinating world of Artificial Intelligence and Machine Learning. As a curious and ever-learning individual, I'm always open to discussing these fascinating fields with other developers. Let's connect!
+<!-- Front End Developer | Creating seamless web experiences with HTML, CSS, and JavaScript. Passionate about building user-friendly interfaces with ReactJS. I really enjoy learning new things. Not only that, but I also enjoy communicating with new people! -->
 ## My Skills
 ![HTML5](https://img.shields.io/badge/html5-%23FB542B.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-0078D7.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
@@ -14,6 +14,7 @@ Front End Developer | Creating seamless web experiences with HTML, CSS, and Java
 ![Python](https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black) &nbsp;
 ![C++](https://img.shields.io/badge/c++-%230769AD.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+<br /><br />
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -37,7 +38,7 @@ Front End Developer | Creating seamless web experiences with HTML, CSS, and Java
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) -->
 
 
 <!--
