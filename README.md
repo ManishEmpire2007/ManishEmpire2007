@@ -15,6 +15,9 @@ Front End Developer who's also diving into AI/ML. I love creating user-friendly 
 ![C++](https://img.shields.io/badge/c++-%230769AD.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
 <br /><br />
+## What I'm Doing
+-> Boosting my Skills
+-> Learning AIML
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
