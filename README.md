@@ -14,7 +14,7 @@ Front End Developer who's also diving into AI/ML. I love creating user-friendly 
 ![Python](https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black) &nbsp;
 ![C++](https://img.shields.io/badge/c++-%230769AD.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
-<br /><br />
+
 
 <!--
 **ManishEmpire2007/ManishEmpire2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
