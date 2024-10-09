@@ -9,6 +9,7 @@ Front End Developer who's also diving into AI/ML. I love creating user-friendly 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) &nbsp;
 <br />
+![MySQL](https://img.shields.io/badge/mysql-%23FF0089.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![SCSS](https://img.shields.io/badge/SCSS-%23FF0089.svg?style=for-the-badge&logo=SASS&logoColor=white) &nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-22ADF6.svg?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
 ![Python](https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black) &nbsp;
